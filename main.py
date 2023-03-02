@@ -30,8 +30,8 @@ for event in events :
     
     try : 
         if 'PlanShop' in event["href"]  : 
-            banner_title.append(event.find("span").text)
-            banner_desc.append(event.text)
+            banner_title.append(event.find("span").text.replace("\r", ""))
+            banner_desc.append(event.text.replace("\r", ""))
             banner_link.append(event["href"])
         else : 
             continue
