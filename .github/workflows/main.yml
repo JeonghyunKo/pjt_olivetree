@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-    name: PYTHON
+    name: OLIVETREE
 
     on:
       # Allows you to run this workflow manually from the Actions tab
