@@ -1,5 +1,6 @@
 # Project olive tree
 # let's pick some olives from the tree!
+# 단순 특가 안내(아이템 나열형)는 제외, 프로모션 정보 확인 및 이미지 아카이빙 
 
 import re
 import pandas as pd
