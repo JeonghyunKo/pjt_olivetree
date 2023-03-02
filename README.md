@@ -1,2 +1,2 @@
 # pjt_olivetree
-let's pick some olive from the tree!
+let's pick some olives from the tree!
